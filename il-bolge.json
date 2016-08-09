@@ -1,407 +1,407 @@
 [
   {
-    "plaka": 1,
     "bolge": "AKDENİZ",
-    "il": "ADANA"
+    "il": "ADANA",
+    "plaka": 1
   },
   {
-    "plaka": 2,
     "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "ADIYAMAN"
+    "il": "ADIYAMAN",
+    "plaka": 2
   },
   {
-    "plaka": 3,
     "bolge": "EGE",
-    "il": "AFYONKARAHİSAR"
+    "il": "AFYONKARAHİSAR",
+    "plaka": 3
   },
   {
-    "plaka": 4,
     "bolge": "DOĞU ANADOLU",
-    "il": "AĞRI"
+    "il": "AĞRI",
+    "plaka": 4
   },
   {
-    "plaka": 5,
     "bolge": "KARADENİZ",
-    "il": "AMASYA"
+    "il": "AMASYA",
+    "plaka": 5
   },
   {
-    "plaka": 6,
     "bolge": "İÇ ANADOLU",
-    "il": "ANKARA"
+    "il": "ANKARA",
+    "plaka": 6
   },
   {
-    "plaka": 7,
     "bolge": "AKDENİZ",
-    "il": "ANTALYA"
+    "il": "ANTALYA",
+    "plaka": 7
   },
   {
-    "plaka": 8,
     "bolge": "KARADENİZ",
-    "il": "ARTVİN"
+    "il": "ARTVİN",
+    "plaka": 8
   },
   {
-    "plaka": 9,
     "bolge": "EGE",
-    "il": "AYDIN"
+    "il": "AYDIN",
+    "plaka": 9
   },
   {
-    "plaka": 10,
     "bolge": "MARMARA",
-    "il": "BALIKESİR"
+    "il": "BALIKESİR",
+    "plaka": 10
   },
   {
-    "plaka": 11,
     "bolge": "MARMARA",
-    "il": "BİLECİK"
+    "il": "BİLECİK",
+    "plaka": 11
   },
   {
-    "plaka": 12,
     "bolge": "DOĞU ANADOLU",
-    "il": "BİNGÖL"
+    "il": "BİNGÖL",
+    "plaka": 12
   },
   {
-    "plaka": 13,
     "bolge": "DOĞU ANADOLU",
-    "il": "BİTLİS"
+    "il": "BİTLİS",
+    "plaka": 13
   },
   {
-    "plaka": 14,
     "bolge": "KARADENİZ",
-    "il": "BOLU"
+    "il": "BOLU",
+    "plaka": 14
   },
   {
-    "plaka": 15,
     "bolge": "AKDENİZ",
-    "il": "BURDUR"
+    "il": "BURDUR",
+    "plaka": 15
   },
   {
-    "plaka": 16,
     "bolge": "MARMARA",
-    "il": "BURSA"
+    "il": "BURSA",
+    "plaka": 16
   },
   {
-    "plaka": 17,
     "bolge": "MARMARA",
-    "il": "ÇANAKKALE"
+    "il": "ÇANAKKALE",
+    "plaka": 17
   },
   {
-    "plaka": 18,
     "bolge": "İÇ ANADOLU",
-    "il": "ÇANKIRI"
+    "il": "ÇANKIRI",
+    "plaka": 18
   },
   {
-    "plaka": 19,
     "bolge": "KARADENİZ",
-    "il": "ÇORUM"
+    "il": "ÇORUM",
+    "plaka": 19
   },
   {
-    "plaka": 20,
     "bolge": "EGE",
-    "il": "DENİZLİ"
+    "il": "DENİZLİ",
+    "plaka": 20
   },
   {
-    "plaka": 21,
     "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "DİYARBAKIR"
+    "il": "DİYARBAKIR",
+    "plaka": 21
   },
   {
-    "plaka": 22,
     "bolge": "MARMARA",
-    "il": "EDİRNE"
+    "il": "EDİRNE",
+    "plaka": 22
   },
   {
-    "plaka": 23,
     "bolge": "DOĞU ANADOLU",
-    "il": "ELAZIĞ"
+    "il": "ELAZIĞ",
+    "plaka": 23
   },
   {
-    "plaka": 24,
     "bolge": "DOĞU ANADOLU",
-    "il": "ERZİNCAN"
+    "il": "ERZİNCAN",
+    "plaka": 24
   },
   {
-    "plaka": 25,
     "bolge": "DOĞU ANADOLU",
-    "il": "ERZURUM"
+    "il": "ERZURUM",
+    "plaka": 25
   },
   {
-    "plaka": 26,
     "bolge": "İÇ ANADOLU",
-    "il": "ESKİŞEHİR"
+    "il": "ESKİŞEHİR",
+    "plaka": 26
   },
   {
-    "plaka": 27,
     "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "GAZİANTEP"
+    "il": "GAZİANTEP",
+    "plaka": 27
   },
   {
-    "plaka": 28,
     "bolge": "KARADENİZ",
-    "il": "GİRESUN"
+    "il": "GİRESUN",
+    "plaka": 28
   },
   {
-    "plaka": 29,
     "bolge": "KARADENİZ",
-    "il": "GÜMÜŞHANE"
+    "il": "GÜMÜŞHANE",
+    "plaka": 29
   },
   {
-    "plaka": 30,
     "bolge": "DOĞU ANADOLU",
-    "il": "HAKKARİ"
+    "il": "HAKKARİ",
+    "plaka": 30
   },
   {
-    "plaka": 31,
     "bolge": "AKDENİZ",
-    "il": "HATAY"
+    "il": "HATAY",
+    "plaka": 31
   },
   {
-    "plaka": 32,
     "bolge": "AKDENİZ",
-    "il": "ISPARTA"
+    "il": "ISPARTA",
+    "plaka": 32
   },
   {
-    "plaka": 33,
     "bolge": "AKDENİZ",
-    "il": "MERSİN"
+    "il": "MERSİN",
+    "plaka": 33
   },
   {
-    "plaka": 34,
     "bolge": "MARMARA",
-    "il": "İSTANBUL"
+    "il": "İSTANBUL",
+    "plaka": 34
   },
   {
-    "plaka": 35,
     "bolge": "EGE",
-    "il": "İZMİR"
+    "il": "İZMİR",
+    "plaka": 35
   },
   {
-    "plaka": 36,
     "bolge": "DOĞU ANADOLU",
-    "il": "KARS"
+    "il": "KARS",
+    "plaka": 36
   },
   {
-    "plaka": 37,
     "bolge": "KARADENİZ",
-    "il": "KASTAMONU"
+    "il": "KASTAMONU",
+    "plaka": 37
   },
   {
-    "plaka": 38,
     "bolge": "İÇ ANADOLU",
-    "il": "KAYSERİ"
+    "il": "KAYSERİ",
+    "plaka": 38
   },
   {
-    "plaka": 39,
     "bolge": "MARMARA",
-    "il": "KIRKLARELİ"
+    "il": "KIRKLARELİ",
+    "plaka": 39
   },
   {
-    "plaka": 40,
     "bolge": "İÇ ANADOLU",
-    "il": "KIRŞEHİR"
+    "il": "KIRŞEHİR",
+    "plaka": 40
   },
   {
-    "plaka": 41,
     "bolge": "MARMARA",
-    "il": "KOCAELİ"
+    "il": "KOCAELİ",
+    "plaka": 41
   },
   {
-    "plaka": 42,
     "bolge": "İÇ ANADOLU",
-    "il": "KONYA"
+    "il": "KONYA",
+    "plaka": 42
   },
   {
-    "plaka": 43,
     "bolge": "EGE",
-    "il": "KÜTAHYA"
+    "il": "KÜTAHYA",
+    "plaka": 43
   },
   {
-    "plaka": 44,
     "bolge": "DOĞU ANADOLU",
-    "il": "MALATYA"
+    "il": "MALATYA",
+    "plaka": 44
   },
   {
-    "plaka": 45,
     "bolge": "EGE",
-    "il": "MANİSA"
+    "il": "MANİSA",
+    "plaka": 45
   },
   {
-    "plaka": 46,
     "bolge": "AKDENİZ",
-    "il": "KAHRAMANMARAŞ"
+    "il": "KAHRAMANMARAŞ",
+    "plaka": 46
   },
   {
-    "plaka": 47,
     "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "MARDİN"
+    "il": "MARDİN",
+    "plaka": 47
   },
   {
-    "plaka": 48,
     "bolge": "EGE",
-    "il": "MUĞLA"
+    "il": "MUĞLA",
+    "plaka": 48
   },
   {
-    "plaka": 49,
     "bolge": "DOĞU ANADOLU",
-    "il": "MUŞ"
+    "il": "MUŞ",
+    "plaka": 49
   },
   {
-    "plaka": 50,
     "bolge": "İÇ ANADOLU",
-    "il": "NEVŞEHİR"
+    "il": "NEVŞEHİR",
+    "plaka": 50
   },
   {
-    "plaka": 51,
     "bolge": "İÇ ANADOLU",
-    "il": "NİĞDE"
+    "il": "NİĞDE",
+    "plaka": 51
   },
   {
-    "plaka": 52,
     "bolge": "KARADENİZ",
-    "il": "ORDU"
+    "il": "ORDU",
+    "plaka": 52
   },
   {
-    "plaka": 53,
     "bolge": "KARADENİZ",
-    "il": "RİZE"
+    "il": "RİZE",
+    "plaka": 53
   },
   {
-    "plaka": 54,
     "bolge": "MARMARA",
-    "il": "SAKARYA"
+    "il": "SAKARYA",
+    "plaka": 54
   },
   {
-    "plaka": 55,
     "bolge": "KARADENİZ",
-    "il": "SAMSUN"
+    "il": "SAMSUN",
+    "plaka": 55
   },
   {
-    "plaka": 56,
     "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "SİİRT"
+    "il": "SİİRT",
+    "plaka": 56
   },
   {
-    "plaka": 57,
-    "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "SİİRT"
-  },
-  {
-    "plaka": 58,
-    "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "SİİRT"
-  },
-  {
-    "plaka": 59,
-    "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "SİİRT"
-  },
-  {
-    "plaka": 60,
-    "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "SİİRT"
-  },
-  {
-    "plaka": 61,
-    "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "SİİRT"
-  },
-  {
-    "plaka": 62,
     "bolge": "KARADENİZ",
-    "il": "SİNOP"
+    "il": "SİNOP",
+    "plaka": 57
   },
   {
-    "plaka": 63,
-    "bolge": "KARADENİZ",
-    "il": "SİNOP"
-  },
-  {
-    "plaka": 64,
-    "bolge": "KARADENİZ",
-    "il": "SİNOP"
-  },
-  {
-    "plaka": 65,
-    "bolge": "DOĞU ANADOLU",
-    "il": "VAN"
-  },
-  {
-    "plaka": 66,
     "bolge": "İÇ ANADOLU",
-    "il": "YOZGAT"
+    "il": "SİVAS",
+    "plaka": 58
   },
   {
-    "plaka": 67,
-    "bolge": "KARADENİZ",
-    "il": "ZONGULDAK"
-  },
-  {
-    "plaka": 68,
-    "bolge": "İÇ ANADOLU",
-    "il": "AKSARAY"
-  },
-  {
-    "plaka": 69,
-    "bolge": "KARADENİZ",
-    "il": "BAYBURT"
-  },
-  {
-    "plaka": 70,
-    "bolge": "İÇ ANADOLU",
-    "il": "KARAMAN"
-  },
-  {
-    "plaka": 71,
-    "bolge": "İÇ ANADOLU",
-    "il": "KIRIKKALE"
-  },
-  {
-    "plaka": 72,
-    "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "BATMAN"
-  },
-  {
-    "plaka": 73,
-    "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "ŞIRNAK"
-  },
-  {
-    "plaka": 74,
-    "bolge": "KARADENİZ",
-    "il": "BARTIN"
-  },
-  {
-    "plaka": 75,
-    "bolge": "DOĞU ANADOLU",
-    "il": "ARDAHAN"
-  },
-  {
-    "plaka": 76,
-    "bolge": "DOĞU ANADOLU",
-    "il": "IĞDIR"
-  },
-  {
-    "plaka": 77,
     "bolge": "MARMARA",
-    "il": "YALOVA"
+    "il": "TEKİRDAĞ",
+    "plaka": 59
   },
   {
-    "plaka": 78,
     "bolge": "KARADENİZ",
-    "il": "KARABÜK"
+    "il": "TOKAT",
+    "plaka": 60
   },
   {
-    "plaka": 79,
+    "bolge": "KARADENİZ",
+    "il": "TRABZON",
+    "plaka": 61
+  },
+  {
+    "bolge": "DOĞU ANADOLU",
+    "il": "TUNCELİ",
+    "plaka": 62
+  },
+  {
     "bolge": "GÜNEYDOĞU ANADOLU",
-    "il": "KİLİS"
+    "il": "ŞANLIURFA",
+    "plaka": 63
   },
   {
-    "plaka": 80,
+    "bolge": "EGE",
+    "il": "UŞAK",
+    "plaka": 64
+  },
+  {
+    "bolge": "DOĞU ANADOLU",
+    "il": "VAN",
+    "plaka": 65
+  },
+  {
+    "bolge": "İÇ ANADOLU",
+    "il": "YOZGAT",
+    "plaka": 66
+  },
+  {
+    "bolge": "KARADENİZ",
+    "il": "ZONGULDAK",
+    "plaka": 67
+  },
+  {
+    "bolge": "İÇ ANADOLU",
+    "il": "AKSARAY",
+    "plaka": 68
+  },
+  {
+    "bolge": "KARADENİZ",
+    "il": "BAYBURT",
+    "plaka": 69
+  },
+  {
+    "bolge": "İÇ ANADOLU",
+    "il": "KARAMAN",
+    "plaka": 70
+  },
+  {
+    "bolge": "İÇ ANADOLU",
+    "il": "KIRIKKALE",
+    "plaka": 71
+  },
+  {
+    "bolge": "GÜNEYDOĞU ANADOLU",
+    "il": "BATMAN",
+    "plaka": 72
+  },
+  {
+    "bolge": "GÜNEYDOĞU ANADOLU",
+    "il": "ŞIRNAK",
+    "plaka": 73
+  },
+  {
+    "bolge": "KARADENİZ",
+    "il": "BARTIN",
+    "plaka": 74
+  },
+  {
+    "bolge": "DOĞU ANADOLU",
+    "il": "ARDAHAN",
+    "plaka": 75
+  },
+  {
+    "bolge": "DOĞU ANADOLU",
+    "il": "IĞDIR",
+    "plaka": 76
+  },
+  {
+    "bolge": "MARMARA",
+    "il": "YALOVA",
+    "plaka": 77
+  },
+  {
+    "bolge": "KARADENİZ",
+    "il": "KARABÜK",
+    "plaka": 78
+  },
+  {
+    "bolge": "GÜNEYDOĞU ANADOLU",
+    "il": "KİLİS",
+    "plaka": 79
+  },
+  {
     "bolge": "AKDENİZ",
-    "il": "OSMANİYE"
+    "il": "OSMANİYE",
+    "plaka": 80
   },
   {
-    "plaka": 81,
     "bolge": "KARADENİZ",
-    "il": "DÜZCE"
+    "il": "DÜZCE",
+    "plaka": 81
   }
 ]
